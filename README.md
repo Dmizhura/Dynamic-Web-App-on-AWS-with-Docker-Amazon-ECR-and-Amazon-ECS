@@ -1,4 +1,4 @@
-![Alt text](docker project.jpg)
+![Alt text](Docker Project.jpg)
 # Dynamic Web App on AWS with Docker, Amazon ECR, and Amazon ECS
 
 This project is a comprehensive DevOps initiative aimed at hosting a dynamic web application on Amazon Web Services (AWS). Below is an outline of the resources utilized along with a brief description of their roles in the deployment process.
